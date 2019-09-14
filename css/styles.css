@@ -218,8 +218,7 @@ ul {
 }
 
 .block_slider-right,
-.slick-slider,
-.slick-slide {
+.slick-slider {
     display: none!important;
 }
 
